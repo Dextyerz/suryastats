@@ -1,0 +1,7 @@
+{
+  "token": "ODM2NjU1MTEyMDIxMjEzMjI0.YIhJyw.yikPEnjoryamTO7ey4KJ3Rd8XQw",
+  "hypixelapikey": "67068c67-02ee-444f-9f2e-8a80a27271e8",
+  "postgresDSN": "postgresql://postgres:5utBpuE1FRy4trJmVSCt@containers-us-west-11.railway.app:7551/railway",
+  "bot-log-channel": 873295884903907399,
+  "noCoolDownUsers": [467962329435471878, 577377630362402817, 704672855245193296]
+}
